@@ -118,7 +118,7 @@ Replace hello.um with any valid UM program file. The emulator reads the program,
 ---
 
 ## 🏫 About the Course
-CS40: Machine Structure and Assembly Language Programming
+CS40: Machine Structure and Assembly Language Programming,
 Tufts University – Fall 2023
 
 ---
