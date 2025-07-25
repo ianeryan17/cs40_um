@@ -1,4 +1,4 @@
-# 💻 CS40 Homework 6 – Universal Machine Emulator (C)
+# 💻 CS40 Homework Assignment – Universal Machine Emulator (C)
 This repository contains my solution to Homework 6 for CS40 (Machine Structure and Assembly Language Programming), a course I completed at Tufts University. The assignment focused on building a Universal Machine (UM) emulator in C that supports segmented memory, register-based instructions, and efficient execution of UM programs.
 
 ---
